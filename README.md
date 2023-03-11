@@ -28,7 +28,7 @@ this is going to take for forever and a half
 # Trust
 # PERMANENT-LEGITIMATE-WEB3-SERVICE-PROVIDER
 # membershiprulesapply
-dao-nftsruneverything-singleplayergames-multiplayergames-subjectadvisors-personalassistants-marketplacewithrealanddigitalassets-humansupport-personalcreditline-businesscreditline-CDs-thinksscardusa-nowthink.letsdoitagainbutmodern.exe
+dao-nftsruneverything-singleplayergames-multiplayergames-subjectadvisors-personalassistants-marketplacewithrealanddigitalassets-humansupport-personalcreditline-businesscreditline-CDs-thinksscardusa-nowthink.letsdoitagainbutmodern.exe-underalias-fixtheworld
 *boop*
 Happy. Healthy. Wealthy. Abundant. Grateful. Rich
 $HHWAGR btcdonateplzthx1337.sol
