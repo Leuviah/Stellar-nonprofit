@@ -25,7 +25,10 @@ this is going to take for forever and a half
 # Stellar Lumens
 # Solana Developers
 # CBDC
-# Trust
+# NFTpasses
+# KYC
+# Learnunearnin
+# playnearnin
 # PERMANENT-LEGITIMATE-WEB3-SERVICE-PROVIDER
 # membershiprulesapply
 devcontainer.jsonnotesforleuviahdao
